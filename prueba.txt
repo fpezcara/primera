@@ -1,1 +1,1 @@
-Esto es lo primero que escribo en el archivo prueba.txt
+Esto es lo segundo que escribo en el archivo prueba.txt
